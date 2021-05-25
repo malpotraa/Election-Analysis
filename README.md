@@ -1,5 +1,5 @@
 ## Election Data Project - Polls and Donors
-In This Project On Visualisationa and analysis of two csv Files Polls And Donors. By looking at data and Using pandas to get information, visualized different aspects of it!
+This Project is on visualisationa and analysis of two csv files Polls And Donors. By looking at data and Using pandas to get information, visualized different aspects of it!
 
 The first data set is the results of political polls.
 
